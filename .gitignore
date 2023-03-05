@@ -52,8 +52,3 @@ buck-out/
 # Expo
 .expo/
 web-build/
-dist/
-
-# Rocketseat Platform
-yarn.lock
-package-lock.json
